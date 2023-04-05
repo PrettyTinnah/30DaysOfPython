@@ -72,4 +72,4 @@ country =  input("Ente the country: ")
 #showing the information
 print("The user is ", f_name, l_name, "of age ", age, "and from ", country)
 
-#end day_2 of #30 Days of Python
+#end day_2 of #30 Days of Python next day see yah

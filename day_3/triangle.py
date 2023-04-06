@@ -1,0 +1,1 @@
+#Day 3 program to calculate the area and the perimeter of a rectangle

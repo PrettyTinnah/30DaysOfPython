@@ -56,7 +56,9 @@ mod = '{} % {} = {}'.format(num_1,num_2, num_1%num_2)
 flr = '{} // {} = {}'.format(num_1,num_2, num_1//num_2)
 exp = '{} ** {} = {}'.format(num_1,num_2, num_1**num_2)
 
-
+strim = ' Coding For All '
+new = strim.strip(' ')
+print(new)
 print(add)
 print(sub)
 print(div)

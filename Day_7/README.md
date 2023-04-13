@@ -1,1 +1,1 @@
-Day 7 of 30 Days of Python
+Day 7 of 30 Days of Python learning sets

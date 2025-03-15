@@ -1,4 +1,4 @@
-# 30 Days of Python
+## 30 Days of Python
 
 Since everyone has been trying coding challenges (100 Days of Code) I decided to run along with 30 Days of Python code to better my understanding of the language.
 
